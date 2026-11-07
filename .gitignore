@@ -1,0 +1,7 @@
+upstream/
+.env
+*.sql
+*.sql.gz
+*.bak
+sites/
+backups/
